@@ -39,3 +39,5 @@
    - 수신 메세지와 발신 메세지 구분
    - 특정 메세지를 읽을 시 읽은 메세지로 처리
  
+
+* 관련 자료 : https://programmingnote.tistory.com
